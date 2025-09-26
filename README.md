@@ -43,7 +43,7 @@ http://localhost:9090
 ![](AccesoUsuario.PNG)
 
 #Imagen de Autenticaicon de Admin
-![]()
+![](AutenticaciónAdmin.PNG)
 
 #Imagen de Acceso a Admin
 ![]()
