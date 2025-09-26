@@ -38,3 +38,12 @@ http://localhost:9090
 
 #Imagen de Autenticación de Usuario
 ![](AutenticaciónUsuario.PNG)
+
+#Imagen de Acceso a Usuario
+![](AccesoUsuario.PNG)
+
+#Imagen de Autenticaicon de Admin
+![]()
+
+#Imagen de Acceso a Admin
+![]()
