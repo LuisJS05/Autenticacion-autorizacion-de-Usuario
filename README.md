@@ -46,4 +46,4 @@ http://localhost:9090
 ![](AutenticaciónAdmin.PNG)
 
 #Imagen de Acceso a Admin
-![]()
+![](AccesoAdmin.PNG)
