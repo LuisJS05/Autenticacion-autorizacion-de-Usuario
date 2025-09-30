@@ -39,9 +39,9 @@ cd backecom
 
 3. Buil y run con Maven:
 
- . mvn clean install
+      . mvn clean install
    
- . mvn spring-boot:run
+      . mvn spring-boot:run
 
 5. El servidor arrancara en:
 http://localhost:9090
