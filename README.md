@@ -4,12 +4,19 @@ API REST con SpringBoot implementando autenticación y autorización con JWT
 #Tecnologías usadas:
 
 -Java
+
 -SpringBoot
+
 -SpringSecurity
+
 -JWT(Json Web Token)
+
 -Maven
+
 -Lombok
+
 -JPA
+
 -MySQL
 
 
