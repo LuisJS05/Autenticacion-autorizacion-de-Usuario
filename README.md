@@ -38,10 +38,12 @@ git clone https://github.com/LuisJS05/backecom.git
 cd backecom
 
 3. Buil y run con Maven:
-mvn clean install
-mvn spring-boot:run
 
-4. El servidor arrancara en:
+ . mvn clean install
+   
+ . mvn spring-boot:run
+
+5. El servidor arrancara en:
 http://localhost:9090
 
 #Imagen de Autenticación de Usuario
