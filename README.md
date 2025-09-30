@@ -1,7 +1,7 @@
 # backecom
 API REST con SpringBoot implementando autenticación y autorización con JWT
 
-#Tecnologías usadas
+#Tecnologías usadas:
 -Java
 -SpringBoot
 -SpringSecurity
@@ -12,7 +12,7 @@ API REST con SpringBoot implementando autenticación y autorización con JWT
 -MySQL
 
 
-#Estructura del proyecto
+#Estructura del proyecto:
 src/main/java/com/tu/empresa/backecom
 - config -> configuración de seguridad, filtros JWT
 - controller -> endpoints REST
