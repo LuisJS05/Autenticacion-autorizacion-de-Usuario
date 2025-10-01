@@ -1,4 +1,4 @@
-# Back-ecom
+# Autenticación y Autorización de Usuarios
 API REST con SpringBoot implementando autenticación y autorización con JWT
 
 #Tecnologías usadas:
